@@ -1,0 +1,12 @@
+# Adidas Sales Performance Dashboard
+# Author: Wang Jingyi (Justin)
+# Purpose: End-to-End Data Visualization (CSV → SQL → SQLite → Power BI)
+
+# Core dependencies
+pandas>=2.0.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# (Optional) For extended database and environment management
+sqlalchemy>=2.0.0
+jupyterlab>=4.0.0
