@@ -27,7 +27,7 @@ A comprehensive **Adidas U.S. Sales Performance Report (2020–2021)** is includ
 It contains executive insights, KPI analysis, SQL-driven findings, visual interpretation, and strategic recommendations based on the full ETL + Analytics pipeline.
 
 📄 **Full Report (Markdown):**  
-[`Adidas_Sales_Report_Full.md`](Adidas_Sales_Report_Full.md)
+[`Adidas_Sales_Report_Full.md`](/reports/Adidas_Sales_Report_Full.md)
 
 The report covers:
 - Executive Summary  
@@ -53,11 +53,13 @@ Adidas-Sales-Dashboard/
 │   │   └── adidas.db
 │
 ├── reports/
+│   └── Adidas_Sales_Report_Full.md
 │   └── figures/
 │       ├── retailer_sales.png
 │       ├── region_sales.png
 │       ├── monthly_trend.png
 │       └── correlation_heatmap.png
+
 │
 ├── src/
 │   ├── __init__.py
@@ -69,7 +71,6 @@ Adidas-Sales-Dashboard/
 │
 ├── requirements.txt
 └── README.md
-└── Adidas_Sales_Report_Full.md
 ```
 
 ---
