@@ -19,6 +19,28 @@ Workflow summary:
 
 ---
 
+---
+
+## 📝 Business Report
+
+A comprehensive **Adidas U.S. Sales Performance Report (2020–2021)** is included in this project.  
+It contains executive insights, KPI analysis, SQL-driven findings, visual interpretation, and strategic recommendations based on the full ETL + Analytics pipeline.
+
+📄 **Full Report (Markdown):**  
+[`Adidas_Sales_Report_Full.md`](Adidas_Sales_Report_Full.md)
+
+The report covers:
+- Executive Summary  
+- Regional & Retailer Performance  
+- Pricing & Volume Elasticity Analysis  
+- Monthly Trend Interpretation  
+- Correlation & KPI Insights  
+- Strategic Recommendations & Business Implications  
+
+This serves as a business-facing document demonstrating data storytelling, analytical reasoning, and decision-making capabilities derived from the dataset.
+
+---
+
 ## 📁 Project Structure
 
 ```
@@ -47,6 +69,7 @@ Adidas-Sales-Dashboard/
 │
 ├── requirements.txt
 └── README.md
+└── Adidas_Sales_Report_Full.md
 ```
 
 ---
