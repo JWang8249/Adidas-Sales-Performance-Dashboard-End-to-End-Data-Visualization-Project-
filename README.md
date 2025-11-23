@@ -53,7 +53,7 @@ Adidas-Sales-Dashboard/
 │   │   └── adidas.db
 │
 ├── reports/
-│   └── Adidas_Sales_Report_Full.md
+│   ├── Adidas_Sales_Report_Full.md
 │   └── figures/
 │       ├── retailer_sales.png
 │       ├── region_sales.png
