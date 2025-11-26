@@ -87,7 +87,7 @@ Example figures used in this report:
 The monthly trend chart below shows dramatic growth beginning in **January 2021**, with sales and profit increasing sharply and maintaining high levels through late 2021.
 
 ### Monthly Sales & Profit Trend  
-![Monthly Trend](reports/figures/monthly_trend.png)
+![Monthly Trend](figures/monthly_trend.png)
 
 ### Interpretation
 - Pandemic recovery boosted retail activity  
@@ -108,7 +108,7 @@ Regional sales analysis shows that:
 - Northeast and Southeast follow but remain far behind  
 
 ### Regional Sales Chart  
-![Region Sales](reports/figures/region_sales.png)
+![Region Sales](figures/region_sales.png)
 
 ### Interpretation
 - Strong retail presence in urban West Coast markets  
@@ -126,7 +126,7 @@ Regional sales analysis shows that:
 Top retailers generate a disproportionate share of total sales:
 
 ### Top Retailers by Total Sales  
-![Retailer Sales](reports/figures/retailer_sales.png)
+![Retailer Sales](figures/retailer_sales.png)
 
 ### Key Patterns
 - West Gear, Foot Locker, and Sports Direct dominate  
@@ -144,7 +144,7 @@ Top retailers generate a disproportionate share of total sales:
 Correlation analysis indicates:
 
 ### Correlation Heatmap  
-![Correlation Heatmap](reports/figures/correlation_heatmap.png)
+![Correlation Heatmap](figures/correlation_heatmap.png)
 
 ### Key Findings
 - **Units Sold ↔ Total Sales** correlation = **0.91**  
